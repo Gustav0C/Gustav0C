@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27319F&center=true&width=435&lines=Gustavo+Canales)](https://git.io/typing-svg)
 <!--
 **Gustav0C/Gustav0C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
