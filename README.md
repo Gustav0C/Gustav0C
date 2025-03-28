@@ -9,9 +9,3 @@ Ingeniero de Sistemas y Desarrollador Web. De Ica, Peru. Especializado en el des
     <img src="https://skillicons.dev/icons?i=js,html,css,astro,github,git,py,java,react,php,vscode,tailwind,figma" />
   </a>
 </p>
-
-<style>
-  h2 {
-    color: #36BCF7FF ;
-  }
-</style>
