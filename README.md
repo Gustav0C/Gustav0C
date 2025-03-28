@@ -3,9 +3,9 @@
 
 Ingeniero de Sistemas y Desarrollador Web. De Ica, Peru. Especializado en el desarrollo de aplicaciones web y móviles. Me gusta aprender nuevas tecnologías y mejorar mis habilidades.
 
-SKILLS
+<h1 align="center"> SKILLS </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,astro,github,git,py.java,react,php.vscode,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,astro,github,git,py,java,react,php.vscode,tailwind,figma" />
   </a>
 </p>
