@@ -1,5 +1,5 @@
 ## Bienvenido 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Gustavo+Canales)]([https://git.io/typing-svg](https://gustav0c.github.io/Portafolio-Web/))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Gustavo+Canales)](https://gustav0c.github.io/Portafolio-Web/)
 
 Ingeniero de Sistemas y Desarrollador Web. De Ica, Peru. Especializado en el desarrollo de aplicaciones web y móviles. Me gusta aprender nuevas tecnologías y mejorar mis habilidades.
 
