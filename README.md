@@ -6,6 +6,6 @@ Ingeniero de Sistemas y Desarrollador Web. De Ica, Peru. Especializado en el des
 <h2 align="center"> Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,astro,github,git,py,java,react,php,vscode,tailwind,figma,php" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,astro,github,git,py,java,react,php,vscode,tailwind,figma,nodejs" />
   </a>
 </p>
