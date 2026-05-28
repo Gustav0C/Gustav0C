@@ -17,7 +17,7 @@
 - :student: Actualmente estoy estudiando `Data Science` and `Software Engineering`.
 - :nerd_face: Siempre `Aprendiendo nuevas cosas`.
 - :thinking: Actualmente estoy abierto a cualquier `Oferta de Trabajo`, Este es [Mi CV](https://docs.google.com/document/d/1qmBoyAjslU_IGDK2h5RUk6LdzhlyyWZj/edit?usp=sharing&ouid=117965255400179860083&rtpof=true&sd=true).
-- :boom: Puedes visitar [Mi Pagina Web](https://gustav0c.github.io/Portafolio-Web/).
+- :boom: Puedes visitar [Mi Pagina Web](https://gustavo-canales.vercel.app/).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Redes
