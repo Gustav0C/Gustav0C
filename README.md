@@ -11,7 +11,7 @@
 <br><br>
 
 - :school: Soy un  `Junior` de la [Facultad de Ingeniería de Sistemas](https://unica.edu.pe/sistemas/) en la [Universidad Nacional San Luis Gonzaga](https://www.unica.edu.pe/).
-- :trophy: `Crece 3G` Ganador con `Inexa`.
+- :trophy: `Crece 3G` Ganador con `Mikui`.
 - :technologist: Me apasiona resolver `Problemas` con ayuda de la tecnología.
 - :computer: Soy Desarrollador Full Stack `OpenSource`, `Opencode`, `Any Framework`, `Supabase`, `Claude Code`.
 - :student: Actualmente estoy estudiando `Data Science` and `Software Engineering`.
